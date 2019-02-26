@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1519311740 source:c:\users\rafael\desktop\fatec\fatec  - 3  semestre\estrutura de dados\programa_de_pilha\main.c
+	<stdio.h>
+	<stdlib.h>
+
