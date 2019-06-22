@@ -1,0 +1,169 @@
+# depslib dependency file v1.0
+1527188140 source:c:\users\rafael\desktop\fatec\fatec  - 3  semestre\projetoestrutura0.1\listadinamica.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"DuplamenteLigada.h"
+	"ListaDinamica.h"
+
+1527188020 c:\users\rafael\desktop\fatec\fatec  - 3  semestre\projetoestrutura0.1\listadinamica.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1527191353 source:c:\users\rafael\desktop\fatec\fatec  - 3  semestre\projetoestrutura0.1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArvoreBinaria.h"
+	"ListaDinamica.h"
+
+1527191783 source:c:\users\rafael\desktop\fatec\fatec  - 3  semestre\projetoestrutura0.1\duplamenteligada.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"DuplamenteLigada.h"
+	"ListaDinamica.h"
+
+1527182658 c:\users\rafael\desktop\fatec\fatec  - 3  semestre\projetoestrutura0.1\duplamenteligada.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1527189205 source:c:\users\rafael\desktop\fatec\fatec  - 3  semestre\projetoestrutura0.1\arvorebinaria.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"DuplamenteLigada.h"
+	"ListaDinamica.h"
+	"ArvoreBinaria.h"
+
+1527188411 c:\users\rafael\desktop\fatec\fatec  - 3  semestre\projetoestrutura0.1\arvorebinaria.h
+
+1527189205 source:c:\users\rafael\desktop\fatec\fatec  - 3  semestre\estrutura de dados\projetoestrutura\arvorebinaria.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"DuplamenteLigada.h"
+	"ListaDinamica.h"
+	"ArvoreBinaria.h"
+
+1527182658 c:\users\rafael\desktop\fatec\fatec  - 3  semestre\estrutura de dados\projetoestrutura\duplamenteligada.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1527188020 c:\users\rafael\desktop\fatec\fatec  - 3  semestre\estrutura de dados\projetoestrutura\listadinamica.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1527188411 c:\users\rafael\desktop\fatec\fatec  - 3  semestre\estrutura de dados\projetoestrutura\arvorebinaria.h
+
+1527206881 source:c:\users\rafael\desktop\fatec\fatec  - 3  semestre\estrutura de dados\projetoestrutura\duplamenteligada.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"DuplamenteLigada.h"
+	"ListaDinamica.h"
+
+1527188140 source:c:\users\rafael\desktop\fatec\fatec  - 3  semestre\estrutura de dados\projetoestrutura\listadinamica.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"DuplamenteLigada.h"
+	"ListaDinamica.h"
+
+1527211066 source:c:\users\rafael\desktop\fatec\fatec  - 3  semestre\estrutura de dados\projetoestrutura\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArvoreBinaria.h"
+	"ListaDinamica.h"
+
+1527189205 source:c:\users\rafael\desktop\fatec\fatec  - 3  semestre\projetoestruturarelatorio\arvorebinaria.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"DuplamenteLigada.h"
+	"ListaDinamica.h"
+	"ArvoreBinaria.h"
+
+1527182658 c:\users\rafael\desktop\fatec\fatec  - 3  semestre\projetoestruturarelatorio\duplamenteligada.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1527188020 c:\users\rafael\desktop\fatec\fatec  - 3  semestre\projetoestruturarelatorio\listadinamica.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1527188411 c:\users\rafael\desktop\fatec\fatec  - 3  semestre\projetoestruturarelatorio\arvorebinaria.h
+
+1527188140 source:c:\users\rafael\desktop\fatec\fatec  - 3  semestre\projetoestruturarelatorio\listadinamica.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"DuplamenteLigada.h"
+	"ListaDinamica.h"
+
+1527269745 source:c:\users\rafael\desktop\fatec\fatec  - 3  semestre\projetoestruturarelatorio\duplamenteligada.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"DuplamenteLigada.h"
+	"ListaDinamica.h"
+
+1527272212 source:c:\users\rafael\desktop\fatec\fatec  - 3  semestre\projetoestruturarelatorio\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"ArvoreBinaria.h"
+	"ListaDinamica.h"
+	"DuplamenteLigada.h"
+
+1527189205 source:c:\users\rafael\desktop\fatec\fatec  - 3  semestre\estrutura de dados\projetoestruturarelatorio\arvorebinaria.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"DuplamenteLigada.h"
+	"ListaDinamica.h"
+	"ArvoreBinaria.h"
+
+1527182658 c:\users\rafael\desktop\fatec\fatec  - 3  semestre\estrutura de dados\projetoestruturarelatorio\duplamenteligada.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1527188020 c:\users\rafael\desktop\fatec\fatec  - 3  semestre\estrutura de dados\projetoestruturarelatorio\listadinamica.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1527188411 c:\users\rafael\desktop\fatec\fatec  - 3  semestre\estrutura de dados\projetoestruturarelatorio\arvorebinaria.h
+
+1527269745 source:c:\users\rafael\desktop\fatec\fatec  - 3  semestre\estrutura de dados\projetoestruturarelatorio\duplamenteligada.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"DuplamenteLigada.h"
+	"ListaDinamica.h"
+
+1527188140 source:c:\users\rafael\desktop\fatec\fatec  - 3  semestre\estrutura de dados\projetoestruturarelatorio\listadinamica.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"DuplamenteLigada.h"
+	"ListaDinamica.h"
+
+1528377798 source:c:\users\rafael\desktop\fatec\fatec  - 3  semestre\estrutura de dados\projetoestruturarelatorio\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"ArvoreBinaria.h"
+	"ListaDinamica.h"
+	"DuplamenteLigada.h"
+
